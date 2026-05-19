@@ -24,9 +24,9 @@ import (
 	"context"
 	"log"
 
-	"github.com/cheggaaa/pb"
 	"github.com/buckit-io/minio-go/v7"
 	"github.com/buckit-io/minio-go/v7/pkg/credentials"
+	"github.com/cheggaaa/pb"
 )
 
 func main() {

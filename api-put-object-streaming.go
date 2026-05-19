@@ -29,8 +29,8 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/google/uuid"
 	"github.com/buckit-io/minio-go/v7/pkg/s3utils"
+	"github.com/google/uuid"
 )
 
 // putObjectMultipartStream - upload a large object using
